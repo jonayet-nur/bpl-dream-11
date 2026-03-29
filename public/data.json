@@ -1,0 +1,192 @@
+[
+  {
+    "name": "Virat Kohli",
+    "country": "India",
+    "type": "Batsman",
+    "rating": 95,
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "price": 1200000,
+    "image":" https://i.ibb.co.com/Q3LBhsrT/Virat-Kohli.webp"
+  },
+  {
+    "name": "Babar Azam",
+    "country": "Pakistan",
+    "type": "Batsman",
+    "rating": 92,
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "price": 1100000,
+    "image": "https://example.com/images/babar_azam.jpg"
+  },
+  {
+    "name": "Ben Stokes",
+    "country": "England",
+    "type": "All-rounder",
+    "rating": 90,
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Right-arm fast-medium",
+    "price": 1300000,
+    "image": "https://example.com/images/ben_stokes.jpg"
+  },
+  {
+    "name": "Shakib Al Hasan",
+    "country": "Bangladesh",
+    "type": "All-rounder",
+    "rating": 91,
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Slow left-arm orthodox",
+    "price": 1000000,
+    "image": "https://example.com/images/shakib_al_hasan.jpg"
+  },
+  {
+    "name": "Kane Williamson",
+    "country": "New Zealand",
+    "type": "Batsman",
+    "rating": 89,
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "price": 1050000,
+    "image": "https://example.com/images/kane_williamson.jpg"
+  },
+  {
+    "name": "Jasprit Bumrah",
+    "country": "India",
+    "type": "Bowler",
+    "rating": 94,
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm fast",
+    "price": 1150000,
+    "image": "https://example.com/images/jasprit_bumrah.jpg"
+  },
+  {
+    "name": "Mitchell Starc",
+    "country": "Australia",
+    "type": "Bowler",
+    "rating": 93,
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Left-arm fast",
+    "price": 1180000,
+    "image": "https://example.com/images/mitchell_starc.jpg"
+  },
+  {
+    "name": "Jos Buttler",
+    "country": "England",
+    "type": "Wicketkeeper-Batsman",
+    "rating": 91,
+    "batting_style": "Right-hand bat",
+    "bowling_style": "N/A",
+    "price": 1120000,
+    "image": "https://example.com/images/jos_buttler.jpg"
+  },
+  {
+    "name": "Rohit Sharma",
+    "country": "India",
+    "type": "Batsman",
+    "rating": 93,
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "price": 1190000,
+    "image": "https://example.com/images/rohit_sharma.jpg"
+  },
+  {
+    "name": "David Warner",
+    "country": "Australia",
+    "type": "Batsman",
+    "rating": 90,
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Right-arm legbreak",
+    "price": 1080000,
+    "image": "https://example.com/images/david_warner.jpg"
+  },
+  {
+    "name": "Steve Smith",
+    "country": "Australia",
+    "type": "Batsman",
+    "rating": 91,
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm legbreak",
+    "price": 1110000,
+    "image": "https://example.com/images/steve_smith.jpg"
+  },
+  {
+    "name": "Joe Root",
+    "country": "England",
+    "type": "Batsman",
+    "rating": 90,
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "price": 1090000,
+    "image": "https://example.com/images/joe_root.jpg"
+  },
+  {
+    "name": "Trent Boult",
+    "country": "New Zealand",
+    "type": "Bowler",
+    "rating": 92,
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Left-arm fast-medium",
+    "price": 1130000,
+    "image": "https://example.com/images/trent_boult.jpg"
+  },
+  {
+    "name": "Kagiso Rabada",
+    "country": "South Africa",
+    "type": "Bowler",
+    "rating": 91,
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Right-arm fast",
+    "price": 1140000,
+    "image": "https://example.com/images/kagiso_rabada.jpg"
+  },
+  {
+    "name": "Hardik Pandya",
+    "country": "India",
+    "type": "All-rounder",
+    "rating": 89,
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm fast-medium",
+    "price": 1170000,
+    "image": "https://example.com/images/hardik_pandya.jpg"
+  },
+  {
+    "name": "Andre Russell",
+    "country": "West Indies",
+    "type": "All-rounder",
+    "rating": 92,
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm fast",
+    "price": 1250000,
+    "image": "https://example.com/images/andre_russell.jpg"
+  },
+  {
+    "name": "Rashid Khan",
+    "country": "Afghanistan",
+    "type": "Bowler",
+    "rating": 93,
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm legbreak googly",
+    "price": 1210000,
+    "image": "https://example.com/images/rashid_khan.jpg"
+  },
+  {
+    "name": "Quinton de Kock",
+    "country": "South Africa",
+    "type": "Wicketkeeper-Batsman",
+    "rating": 89,
+    "batting_style": "Left-hand bat",
+    "bowling_style": "N/A",
+    "price": 1070000,
+    "image": "https://example.com/images/quinton_de_kock.jpg"
+  },
+  {
+    "name": "MS Dhoni",
+    "country": "India",
+    "type": "Wicketkeeper-Batsman",
+    "rating": 88,
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "price": 1060000,
+    "image": "https://example.com/images/ms_dhoni.jpg"
+  }
+]
