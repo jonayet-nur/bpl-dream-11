@@ -17,7 +17,7 @@
     "batting_style": "Right-hand bat",
     "bowling_style": "Right-arm offbreak",
     "price": 1100000,
-    "image": "https://example.com/images/babar_azam.jpg"
+    "image": "https://i.ibb.co.com/DDzTgqSd/download-1.jpg"
   },
   {
     "name": "Ben Stokes",
@@ -27,7 +27,7 @@
     "batting_style": "Left-hand bat",
     "bowling_style": "Right-arm fast-medium",
     "price": 1300000,
-    "image": "https://example.com/images/ben_stokes.jpg"
+    "image": "https://i.ibb.co.com/LzQFyvRs/benstokes-1564568583.jpg"
   },
   {
     "name": "Shakib Al Hasan",
@@ -37,7 +37,7 @@
     "batting_style": "Left-hand bat",
     "bowling_style": "Slow left-arm orthodox",
     "price": 1000000,
-    "image": "https://example.com/images/shakib_al_hasan.jpg"
+    "image": "https://i.ibb.co.com/bjSDmsv4/image-282907-1750075905.webp"
   },
   {
     "name": "Kane Williamson",
@@ -47,7 +47,7 @@
     "batting_style": "Right-hand bat",
     "bowling_style": "Right-arm offbreak",
     "price": 1050000,
-    "image": "https://example.com/images/kane_williamson.jpg"
+    "image": "https://i.ibb.co.com/PGHhYNHM/image-195677-1718784020.webp"
   },
   {
     "name": "Jasprit Bumrah",
@@ -57,7 +57,7 @@
     "batting_style": "Right-hand bat",
     "bowling_style": "Right-arm fast",
     "price": 1150000,
-    "image": "https://example.com/images/jasprit_bumrah.jpg"
+    "image": "https://i.ibb.co.com/cKVx5nKf/mimf3vas-jasprit-bumrah-625x300-16-March-26.webp"
   },
   {
     "name": "Mitchell Starc",
@@ -67,7 +67,7 @@
     "batting_style": "Left-hand bat",
     "bowling_style": "Left-arm fast",
     "price": 1180000,
-    "image": "https://example.com/images/mitchell_starc.jpg"
+    "image": "https://i.ibb.co.com/VpTqPrGM/29256431730704475.webp"
   },
   {
     "name": "Jos Buttler",
@@ -77,7 +77,7 @@
     "batting_style": "Right-hand bat",
     "bowling_style": "N/A",
     "price": 1120000,
-    "image": "https://example.com/images/jos_buttler.jpg"
+    "image": "https://i.ibb.co.com/C39VY0gw/l147-16661774707848.webp"
   },
   {
     "name": "Rohit Sharma",
@@ -87,7 +87,7 @@
     "batting_style": "Right-hand bat",
     "bowling_style": "Right-arm offbreak",
     "price": 1190000,
-    "image": "https://example.com/images/rohit_sharma.jpg"
+    "image": "https://i.ibb.co.com/BVVBBFNS/rohit-sharma-reveals-he-considered-retirement-21-12-2025.jpg"
   },
   {
     "name": "David Warner",
@@ -97,7 +97,7 @@
     "batting_style": "Left-hand bat",
     "bowling_style": "Right-arm legbreak",
     "price": 1080000,
-    "image": "https://example.com/images/david_warner.jpg"
+    "image": "https://i.ibb.co.com/c4pcdgn/warner-player-of-the-tournamen-0-1200x768-1-1.webp"
   },
   {
     "name": "Steve Smith",
@@ -107,7 +107,7 @@
     "batting_style": "Right-hand bat",
     "bowling_style": "Right-arm legbreak",
     "price": 1110000,
-    "image": "https://example.com/images/steve_smith.jpg"
+    "image": "https://i.ibb.co.com/LmVyKyD/download-2.jpg"
   },
   {
     "name": "Joe Root",
@@ -117,7 +117,7 @@
     "batting_style": "Right-hand bat",
     "bowling_style": "Right-arm offbreak",
     "price": 1090000,
-    "image": "https://example.com/images/joe_root.jpg"
+    "image": "https://i.ibb.co.com/kgN1yw3B/Getty-Images-2188210826.webp"
   },
   {
     "name": "Trent Boult",
@@ -127,7 +127,7 @@
     "batting_style": "Right-hand bat",
     "bowling_style": "Left-arm fast-medium",
     "price": 1130000,
-    "image": "https://example.com/images/trent_boult.jpg"
+    "image": "https://i.ibb.co.com/d45XnwPW/boult-15-06-2024.jpg"
   },
   {
     "name": "Kagiso Rabada",
@@ -137,7 +137,7 @@
     "batting_style": "Left-hand bat",
     "bowling_style": "Right-arm fast",
     "price": 1140000,
-    "image": "https://example.com/images/kagiso_rabada.jpg"
+    "image": "https://i.ibb.co.com/4n45ZmZb/4f906b40-281e-11f0-9714-bf834d19adae.jpg"
   },
   {
     "name": "Hardik Pandya",
@@ -147,7 +147,7 @@
     "batting_style": "Right-hand bat",
     "bowling_style": "Right-arm fast-medium",
     "price": 1170000,
-    "image": "https://example.com/images/hardik_pandya.jpg"
+    "image": "https://i.ibb.co.com/QFzLdR0h/Hardik-Pandya-skills.webp"
   },
   {
     "name": "Andre Russell",
@@ -157,7 +157,7 @@
     "batting_style": "Right-hand bat",
     "bowling_style": "Right-arm fast",
     "price": 1250000,
-    "image": "https://example.com/images/andre_russell.jpg"
+    "image": "https://i.ibb.co.com/ccX6kXzj/andre-russell-274857197-16x9-0.webp"
   },
   {
     "name": "Rashid Khan",
@@ -167,7 +167,7 @@
     "batting_style": "Right-hand bat",
     "bowling_style": "Right-arm legbreak googly",
     "price": 1210000,
-    "image": "https://example.com/images/rashid_khan.jpg"
+    "image": "https://i.ibb.co.com/ZzZ5ZZ61/8mvq5v38-rashid-khan-625x300-26-June-24.webp"
   },
   {
     "name": "Quinton de Kock",
@@ -177,7 +177,7 @@
     "batting_style": "Left-hand bat",
     "bowling_style": "N/A",
     "price": 1070000,
-    "image": "https://example.com/images/quinton_de_kock.jpg"
+    "image": "https://i.ibb.co.com/spnxyXbY/quinton-de-kock-rejoin-kkr-squad-14-05-2025.jpg"
   },
   {
     "name": "MS Dhoni",
@@ -187,6 +187,6 @@
     "batting_style": "Right-hand bat",
     "bowling_style": "Right-arm medium",
     "price": 1060000,
-    "image": "https://example.com/images/ms_dhoni.jpg"
+    "image": "https://i.ibb.co.com/XrwG5dL8/ms-dhoni-is-the-only-player-to-captain-50-or-more-matches-in-each-format.webp"
   }
 ]
