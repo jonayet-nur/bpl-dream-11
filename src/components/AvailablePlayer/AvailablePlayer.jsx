@@ -1,7 +1,7 @@
 
 import Card from '../ui/Card'
 
-const AvailablePlayer = ({data,setCoin}) => {
+const AvailablePlayer = ({data,setCoin,coin}) => {
     // console.log(data)
 
     
@@ -10,7 +10,7 @@ const AvailablePlayer = ({data,setCoin}) => {
 
         {
             data.map(player =>{
-                return   <Card player={player} setCoin= {setCoin}></Card>
+                return   <Card player={player} setCoin= {setCoin} coin={coin}></Card>
             })
         }
     

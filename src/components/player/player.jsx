@@ -2,7 +2,7 @@ import React, { use, useState } from 'react'
 import AvailablePlayer from '../AvailablePlayer/AvailablePlayer'
 import SelectedPlayer from '../Selectedplayer/SelectedPlayer'
 
-const Player = ({playerPromise,setCoin}) => {
+const Player = ({playerPromise,setCoin,coin}) => {
     // console.log(playerPromise)
     const data = use(playerPromise)
 
@@ -18,7 +18,7 @@ const Player = ({playerPromise,setCoin}) => {
             <button  onClick={()=> setSelectedType("selected")} className={`btn ${selectedType==="selected"?"bg-[#E7FE29]":""} rounded-l-none rounded-r-xl`}>Selected(0)</button>
         </div>
        </div>
-{selectedType==="available"?<AvailablePlayer data= {data} setCoin={setCoin}></AvailablePlayer>:<SelectedPlayer></SelectedPlayer>}
+{selectedType==="available"?<AvailablePlayer data= {data} setCoin={setCoin} coin={coin}></AvailablePlayer>:<SelectedPlayer></SelectedPlayer>}
     </div>
   )
 }
