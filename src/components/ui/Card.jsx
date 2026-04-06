@@ -4,7 +4,7 @@ import { FaFlag, FaUser } from 'react-icons/fa'
  
 // import React from 'react'
 
-const Card = ({player,setCoin,coin}) => {
+const Card = ({player,setCoin,coin,selectedPlayers,setSelectedPlayers}) => {
     const[isSelected,setSelected]= useState(false)
 
     const HandleChoosePlayer = ()=>{
@@ -19,9 +19,10 @@ const Card = ({player,setCoin,coin}) => {
         toast.success(`${player.name} are Selected`);
         setSelected(true)
         
+        setSelectedPlayers([...selectedPlayers,player])
     }
   return (
-     <div key={player.name} className="card bg-base-100  shadow-sm">
+     <div key={player.name} className="card bg-base-100  shadow-sm md:mx-0 mx-5">
   <figure >
     <img
       src={player.image}
